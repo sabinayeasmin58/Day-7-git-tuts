@@ -1,7 +1,7 @@
 // Hoisting
 
 function greetings() {
-    console.log("Hello World");
+    console.log("Hello JS");
 }
 
 
